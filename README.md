@@ -15,7 +15,7 @@ cd
 
 git clone https://github.com/L0GEEK/SMS_SPAMMER_by_GEEK
 
-cd GEEK
+cd SMS_SPAMMER_by_GEEK
 
 pip install -r requirements.txt 
 
@@ -42,7 +42,7 @@ cd
 
 git clone https://github.com/L0GEEK/SMS_SPAMMER_by_GEEK     
 
-cd GEEK                       
+cd SMS_SPAMMER_by_GEEK                       
 
 pip install -r requirements.txt     
 
