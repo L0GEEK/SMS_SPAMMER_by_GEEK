@@ -13,7 +13,7 @@ sudo apt install git
 
 cd
 
-git clone 
+git clone https://github.com/L0GEEK/SMS_SPAMMER_by_GEEK
 
 cd GEEK
 
@@ -40,7 +40,7 @@ apt install git
 
 cd                   
 
-git clone     
+git clone https://github.com/L0GEEK/SMS_SPAMMER_by_GEEK     
 
 cd GEEK                       
 
