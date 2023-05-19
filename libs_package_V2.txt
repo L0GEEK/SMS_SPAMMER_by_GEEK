@@ -1,8 +1,0 @@
-requests
-fake_useragent
-threaded
-Console
-rich
-fabulous
-art
-pillow
