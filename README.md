@@ -42,6 +42,6 @@ git clone https://github.com/L0GEEK/SMS_SPAMMER_by_GEEK
 
 cd SMS_SPAMMER_by_GEEK                       
 
-pip install -r libs_package.txt     
+pip install -r libs_package_V2.txt     
 
-python3 GEEK_SPAMMER.py               
+python3 GEEK_SPAMMER_V2.py               
